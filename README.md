@@ -20,7 +20,7 @@ Database Update: The candidates' scores are then updated back in the database, a
 Clone the repository:
 bash
 Copy code
-git clone [https://github.com/<Your GitHub Username>/<Repository Name>.git](https://github.com/yilmazeyup/google-gemini-hr/blob/prod/README.md)
+git clone [(https://github.com/yilmazeyup/google-gemini-hr/blob/prod/README.md)](https://github.com/yilmazeyup/google-gemini-hr.git)
 Install dependencies:
 bash
 Copy code
@@ -44,5 +44,16 @@ Distributed under the MIT License. See LICENSE for more information.
 :handshake: Acknowledgements
 
 Google Gemini API
-Dapper
+
+Dapper - A simple object mapper for .NET that extends IDbConnection.
+
+System.Data.SqlClient or Microsoft.Data.SqlClient - Data providers for SQL Server.
+
+Oracle.ManagedDataAccess - Oracle Data Provider for .NET.
+
+Npgsql - .NET data provider for PostgreSQL.
+
+Newtonsoft.Json - A popular high-performance JSON framework for .NET.
+
 [Your Other Dependencies or References]
+
