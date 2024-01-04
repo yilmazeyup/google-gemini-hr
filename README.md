@@ -20,7 +20,7 @@ Database Update: The candidates' scores are then updated back in the database, a
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/<Your GitHub Username>/<Repository Name>.git
+git clone [https://github.com/<Your GitHub Username>/<Repository Name>.git](https://github.com/yilmazeyup/google-gemini-hr/blob/prod/README.md)
 Install dependencies:
 bash
 Copy code
@@ -35,7 +35,7 @@ Copy code
 The application will automatically process the candidates and update their scores in the database.
 :busts_in_silhouette: Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/<Your GitHub Username>/<Repository Name>/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check https://github.com/yilmazeyup/
 
 :memo: License
 
