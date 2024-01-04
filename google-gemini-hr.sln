@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "google-gemini-hr", "google-gemini-hr\google-gemini-hr.csproj", "{480BDB2D-86EB-4C33-AB4F-83B99D516872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480BDB2D-86EB-4C33-AB4F-83B99D516872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480BDB2D-86EB-4C33-AB4F-83B99D516872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480BDB2D-86EB-4C33-AB4F-83B99D516872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480BDB2D-86EB-4C33-AB4F-83B99D516872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E8B740-F5B3-4296-A398-4B402A3C6DDA}
+	EndGlobalSection
+EndGlobal
