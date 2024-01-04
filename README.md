@@ -1,10 +1,5 @@
 :video_game: <Project Name>
 
-![Stars](https://img.shields.io/github/stars/<Your GitHub Username>/<Repository Name>?style=social)
-![Forks](https://img.shields.io/github/forks/<Your GitHub Username>/<Repository Name>?style=social)
-![Issues](https://img.shields.io/github/issues/<Your GitHub Username>/<Repository Name>)
-![Pull Requests](https://img.shields.io/github/issues-pr/<Your GitHub Username>/<Repository Name>)
-
 <Project Name> is a cutting-edge software solution designed to revolutionize the human resources process in the gaming retail industry. By leveraging the power of artificial intelligence through Google's Gemini API, this project aims to provide an in-depth evaluation of candidates applying for retail positions, specifically in selling video games.
 
 :dart: Purpose
